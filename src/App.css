@@ -1,0 +1,9 @@
+.app{
+  height: 250vh;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+@media(min-width: 650px){
+  
+}

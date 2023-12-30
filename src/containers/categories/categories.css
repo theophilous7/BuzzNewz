@@ -1,0 +1,43 @@
+.section{
+    background-color:rgb(238, 54, 207);
+}
+.categories-holder{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 50px;
+}
+.category{
+    width: 80%;
+    height: 30vh;
+    background-color: rgb(100, 100, 235);
+    margin: 10px;
+    border-radius: 10px;
+}
+.more{
+    width: 10%;
+    color: white;
+    background-color:orangered;
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 1px solid white;
+    margin-left: 600px;
+    margin-bottom: 10px;
+}
+
+.sports, .business, .music, .religion,
+.technology, .travels, .weather, .health, 
+.politics{
+    object-fit: contain;
+  background-size: cover;
+  background-repeat: no-repeat
+}
+.sports{  background: url("sports.jpg");}
+.business{  background: url("business1.jpg");}
+.music{ background: url("music.jpg");}
+.religion{ background: url("religion.jpg");}
+.technology{ background: url("technology.jpg");}
+.travels{ background: url("travels.jpg");}
+.weather{ background: url("weather.jpg");}
+.health{ background: url("health\ and\ fitness.jpg");}
+.politics{ background: url("politics.jpg");}
