@@ -1,0 +1,17 @@
+.app{
+  height: 240vh;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-btn{
+  color: rgb(238, 54, 207);
+  font-size: 1rem;
+  width: 20%;
+  cursor: pointer;
+  background-color: blue;
+ 
+
+}
+@media(min-width: 650px){
+  
+}
