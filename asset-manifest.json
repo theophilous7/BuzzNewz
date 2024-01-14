@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4dc0325.css",
+    "main.js": "/static/js/main.e00c958c.js",
+    "static/js/787.99be03dc.chunk.js": "/static/js/787.99be03dc.chunk.js",
+    "static/media/politics.jpg": "/static/media/politics.f6c529ab4dc772a93eba.jpg",
+    "static/media/travels.jpg": "/static/media/travels.abc20758585d7024940f.jpg",
+    "static/media/business.jpg": "/static/media/business.f4a077e8b00b09ad720a.jpg",
+    "static/media/health and fitness.jpg": "/static/media/health and fitness.f2ca3c2ff25d85847c85.jpg",
+    "static/media/sports.jpg": "/static/media/sports.b5d354854509223f325d.jpg",
+    "static/media/technology.jpg": "/static/media/technology.3d8cdb3d76671ad5e435.jpg",
+    "static/media/religion.jpg": "/static/media/religion.b4d60a24a7a36a2f0c32.jpg",
+    "static/media/music.jpg": "/static/media/music.b1a368678fd0de91433b.jpg",
+    "static/media/weather.jpg": "/static/media/weather.fce1557f0bd3d56a9be5.jpg",
+    "index.html": "/index.html",
+    "main.e4dc0325.css.map": "/static/css/main.e4dc0325.css.map",
+    "main.e00c958c.js.map": "/static/js/main.e00c958c.js.map",
+    "787.99be03dc.chunk.js.map": "/static/js/787.99be03dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4dc0325.css",
+    "static/js/main.e00c958c.js"
+  ]
+}
